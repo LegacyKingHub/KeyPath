@@ -1,0 +1,19 @@
+--[[
+Generate Key Links:
+LootLabs: https://ads.luarmor.net/get_key?for=Legacy_Hub_Key_LootLabs-UAiWUjQciFWp
+Linkvertise: https://ads.luarmor.net/get_key?for=Legacy_Hub_Key_Linkvertise-FalqAsZVQwko
+]]
+
+--[[
+Updates:
+Unit Macro Update + auto-money coming today. Yipieee!!
+Adding Key Window next update + Gui revamp.
+]]
+
+--[[
+Showcase: https://youtu.be/nfXPzlNAGGk
+Discord: https://discord.gg/M7VFGkVG
+]]
+
+script_key = "KEY HERE"; --If you don't add this at the top of the script with the key it won't work!
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/05fa51c54f3013db79f9d20bcd225f14.lua"))()
