@@ -1,19 +1,19 @@
---[[
-Generate Key Links:
-Work.ink: https://ads.luarmor.net/get_key?for=Legacy_Hub_Key_LootLabs-UAiWUjQciFWp
-Linkvertise: https://ads.luarmor.net/get_key?for=Legacy_Hub_Key_Linkvertise-FalqAsZVQwko
+--[[ Some are added/Some are not yet added.
+Features:
+Open/Buy Crate
+Auto Party/Lobby
+Auto Diff/Restart/Skip/Speed/Donate
+Macro (Record everything)
+Webhook (Reforge/Crate/Map)
+Auto Execute
+Auto Reforge (Any unit in the inventory)
+Anti Ban
 ]]
 
 --[[
-Updates:
-Unit Macro Update + auto-money coming today. Yipieee!!
-Adding Key Window next update + Gui revamp.
-]]
-
---[[
-Showcase: https://youtu.be/nfXPzlNAGGk
+Join the discord for more info and future updates on the script
 Discord: https://discord.gg/6g6xA24nn5
 ]]
 
-script_key = "KEY HERE"; --If you don't add this at the top of the script with the key it won't work!
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/05fa51c54f3013db79f9d20bcd225f14.lua"))()
+--Hub on BTD will be keyless until it's completed. The Hub ui will also change within the next week, kind reminder to join the discord for more information on the functions.
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/25603558b72a748308f6079617c37c10.lua"))()
